@@ -1,0 +1,47 @@
+.oursuper{
+   margin-top: 4%; 
+}
+.our-head{
+   font-size: 2.7rem;
+   margin-right: 14%;
+   
+}
+.our-head>i{
+   color: #0CC0DF;
+}
+.our-para{
+   margin-right: 25%;
+   padding-top: 25px;
+}
+
+
+@media screen and (max-width: 1400) {
+   .our-head {
+     font-size: 3rem;
+   }
+   
+ }
+@media screen and (max-width: 1200px) {
+   .our-head {
+     font-size: 2.7rem;
+   }
+  
+ }
+@media screen and (max-width: 992px) {
+   .our-head {
+     font-size: 2.2rem;
+   }
+  
+ }
+@media screen and (max-width: 768px) {
+   .our-head {
+     font-size: 1.8rem;
+   }
+  
+ }
+@media screen and (min-width: 576) {
+   .our-head {
+     font-size: 1.5rem;
+   }
+   
+ }

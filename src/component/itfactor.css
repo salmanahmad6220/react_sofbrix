@@ -1,0 +1,47 @@
+.itfactor{
+  margin-top: 10%;
+}
+.it-head{
+    font-size: 2.2rem;
+}
+.it-head2{
+    font-size: 3rem;
+}
+
+
+@media screen and (max-width: 1200px) {
+    .it-head2 {
+      font-size: 2.2rem;
+    }
+    .it-head {
+      font-size: 3rem;
+    }
+   
+  }
+@media screen and (max-width: 992px) {
+    .it-head2 {
+      font-size: 1.5rem;
+    }
+    .it-head {
+      font-size: 2.5rem;
+    }
+    
+  }
+@media screen and (max-width: 768px) {
+    .it-head2 {
+      font-size: 1.2rem;
+    }
+    .it-head {
+      font-size: 2rem;
+    }
+   
+  }
+@media screen and (min-width: 576) {
+    .it-head2 {
+      font-size: 1rem;
+    }
+    .it-head {
+      font-size: 1.5rem;
+    }
+  
+  }

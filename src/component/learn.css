@@ -1,0 +1,56 @@
+.learn-about{
+    background: #d3d3d34f;
+   padding-bottom: 70px;
+}
+.smheading{
+    background: rgba(189, 189, 189, 0.432);
+    color: #0CC0DF;
+}
+.learn-head{
+    font-size: 3rem;
+    
+}
+.learn-head>i{
+    color: #0CC0DF;
+    
+}
+.grid{
+    padding-top: 5%;
+}
+.logo{
+    color: #0CC0DF;
+    background: #b6f0ff62;
+}
+
+
+
+@media screen and (max-width: 1400) {
+    .learn-head {
+      font-size: 3rem;
+    }
+    
+  }
+@media screen and (max-width: 1200px) {
+    .learn-head {
+      font-size: 3rem;
+    }
+   
+  }
+@media screen and (max-width: 992px) {
+    .learn-head {
+      font-size: 2.5rem;
+    }
+   
+  }
+@media screen and (max-width: 768px) {
+    .learn-head {
+      font-size: 2rem;
+    }
+   
+  }
+@media screen and (min-width: 576) {
+    .learn-head {
+      font-size: 1.5rem;
+    }
+    
+  }

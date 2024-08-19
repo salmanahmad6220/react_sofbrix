@@ -1,0 +1,60 @@
+.nav-btn{
+ text-decoration: none;
+}
+nav{  
+    z-index: 2;
+
+
+}
+.transparent{
+    background: transparent;
+}
+.color{
+      color: #0CC0DF;
+}
+.nav-arrow{
+    background: transparent;
+    rotate: -45deg;
+}
+.aqua {
+    color: #0CC0DF;
+}
+.navbar{
+    position: relative;  
+}
+.navbar::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    height: 1.5px;
+    background: linear-gradient(to right, transparent 0%, transparent 10% ,#0CC0DF , transparent 90%, transparent 100%);
+}
+.navbrand {
+    font-family: sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+}
+.nav-row{
+    width: 100%;
+    background: transparent;
+}
+.navitems {
+   background: rgba(255, 255, 255, 0.068);
+   box-shadow: inset 0px 0px 3px 0.5px  rgba(255, 255, 255, 0.24);
+   
+}
+.navitems>span{
+    background: transparent;
+    font-weight: 300;
+    cursor: pointer;
+}
+.active{
+    box-shadow: inset 0px 0px 3px 0.5px  rgba(255, 255, 255, 0.411);
+  
+}
+.link-btn{
+    background: transparent;
+}
+    

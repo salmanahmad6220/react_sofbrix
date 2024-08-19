@@ -1,0 +1,83 @@
+.footer{
+    padding-top: 7%;
+    background: rgba(3, 38, 56, 0.97);
+}
+.footer-head{
+    font-size: 3.5rem;
+    margin: 3% 10%;
+}
+.footer-container{
+    padding-bottom: 8%;
+    padding-top: 8%;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.432);
+}
+.Brand-name{
+    font-size: 3rem;
+
+}
+.Brand-name>span{
+    color: rgb(0, 183, 255);
+}
+.social-media{
+    margin-top: 20%;
+}
+.social-logo{
+    background: linear-gradient(0deg,  rgba(3, 38, 56, 0.97),rgba(255, 255, 255, 0.171));
+   
+    border-radius: 50%;
+    border: 1px solid rgba(255, 255, 255, 0.274);
+}
+.fb{
+    padding: 0px 15px;
+
+}
+.twi{
+    padding: 0px 11px;
+}
+
+
+@media screen and (max-width: 1400) {
+    .footer-head {
+      font-size: 4rem;
+    }
+    .social-media{
+        margin-top: 20%;
+    }
+  }
+@media screen and (max-width: 1200px) {
+    .footer-head {
+      font-size: 3.5rem;
+    }
+    .social-media{
+        margin-top: 20%;
+    }
+  }
+@media screen and (max-width: 992px) {
+    .footer-head {
+      font-size: 3rem;
+    }
+    .social-media{
+        margin-top: 10%;
+        margin-bottom: 5%;
+    }
+   
+  }
+@media screen and (max-width: 768px) {
+    .footer-head {
+      font-size: 2.5rem;
+    }
+    .social-media{
+        margin-top: 5%;
+        margin-bottom: 7%;
+    }
+   
+  }
+@media screen and (min-width: 576) {
+    .footer-head {
+      font-size: 2rem;
+    }
+    .social-media{
+        margin-top: 5%;
+        margin-bottom: 9%;
+    }
+  }

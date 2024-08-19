@@ -1,0 +1,65 @@
+.comment{
+    margin-top: 7%;
+    padding-bottom: 7%;
+}
+.comment-head{
+    font-size: 2.7rem;
+    margin-right: 20%;
+    
+ }
+ .comment-head>i{
+    color: #0CC0DF;
+ }
+ .comment-para{
+    margin-right: 25%;
+    padding-top: 25px;
+ }
+ .comment-box{
+  background: rgba(0, 143, 143, 0.048);
+  border: 2px solid rgba(0, 143, 143, 0.11);
+  /* padding: px 7px; */
+  margin: 0%;
+ }
+ .name{
+  font-size: 1rem;
+ }
+ 
+ @media screen and (max-width: 1400) {
+    .comment-head {
+      font-size: 3rem;
+    }
+    .name{
+      font-size: 0.9rem;
+     }
+    
+  }
+ @media screen and (max-width: 1200px) {
+    .comment-head {
+      font-size: 2.7rem;
+    }
+    .name{
+      font-size: 0.8rem;
+     }
+   
+  }
+ @media screen and (max-width: 992px) {
+    .comment-head {
+      font-size: 2.2rem;
+    }
+   
+   
+  }
+ @media screen and (max-width: 768px) {
+    .comment-head {
+      font-size: 1.8rem;
+    }
+    
+   
+  }
+ @media screen and (min-width: 576) {
+    .comment-head {
+      font-size: 1.5rem;
+    }
+    
+    
+  }

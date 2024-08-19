@@ -1,0 +1,40 @@
+.talk{
+padding-top: 10%;
+padding-bottom: 5%;
+background: #7e7e7e28;
+}
+.talk-head{
+    font-size: 2rem;
+}
+
+
+
+
+@media screen and (max-width: 1400px) {
+    .talk-head {
+      font-size: 2.5rem;
+    }}
+@media screen and (max-width: 1200px) {
+    .talk-head {
+      font-size: 2rem;
+    }
+   
+  }
+@media screen and (max-width: 992px) {
+    .talk-head {
+      font-size: 1.5rem;
+    }
+    
+  }
+@media screen and (max-width: 768px) {
+    .talk-head {
+      font-size: 1.5rem;
+    }
+   
+  }
+@media screen and (min-width: 576) {
+    .talk-head {
+      font-size: 1.2rem;
+    }
+  
+  }

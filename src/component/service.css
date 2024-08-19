@@ -1,0 +1,83 @@
+
+.service{
+  padding-top:10% ;
+
+}
+.service-heading{
+ width: max-content;
+ background: rgba(255, 255, 255, 0.123);
+
+}
+.service-heading>span{
+    background:transparent;
+}
+.service-para1{
+    font-size: 3.7rem;
+   
+}
+.service-para1>i{
+color: #0CC0DF;;
+background-color: transparent;
+}
+.num{
+  opacity: 50%;
+  font-weight: 300;
+}
+.para-text{
+  opacity: 75%;
+}
+.sec-para{
+  background: linear-gradient(to right, rgba(41, 41, 41, 0.589),rgba(82, 82, 82, 0.116));
+  
+}
+.sec-para>.service-head,.sec-para>.num,.sec-para>.para-text{
+  background: transparent;
+  position: relative;
+  left: 18%;
+  padding-right: 30%;
+}
+.service-head,.num,.para-text{
+  background: transparent;
+  position: relative;
+  left: 12%;
+  padding-right: 30%;
+}
+.service-img{
+  position: relative;
+  left: -5%;
+}
+.service-arrow{
+  background: transparent;
+  color: #000;
+  rotate: -45deg;
+  padding: 2px;
+}
+
+
+
+
+
+@media screen and (max-width: 1200px) {
+   
+    .service-para1{
+       font-size: 3.7rem;
+    }
+  }
+@media screen and (max-width: 992px) {
+   
+    .service-para1{
+       font-size: 3;
+    }
+  }
+@media screen and (max-width: 768px) {
+   
+    .service-para1{
+       font-size: 2.5rem;
+    }
+  }
+@media screen and (max-width: 576px) {
+   
+    .service-para1{
+       font-size: 2rem;
+    }
+  }

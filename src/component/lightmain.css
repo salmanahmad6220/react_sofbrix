@@ -1,0 +1,90 @@
+
+
+.light-main{
+    
+    background: rgba(3, 38, 56, 0.97);
+ top: 0%;
+ color: aliceblue;
+ margin-top: -60%;
+
+ 
+}
+.main-container{
+    margin-left: 8%;
+    padding-top: 62%;
+}
+.main-container2{
+
+    padding-top: 55%;
+}
+.light-head{
+    font-size: 3.5rem;
+    padding-top: 20px;
+}
+
+.para{
+    font-weight: 400px;
+   
+}
+.link{
+    color: #0CC0DF;
+    border-bottom: 1px solid #0CC0DF ;
+    text-decoration: none;
+}
+.lightarrow{
+    rotate: 45deg;
+    color: #0CC0DF;
+}
+.scroll-down{
+    padding-top: 5%;
+    padding-bottom: 15%;
+    
+}
+.client-div{
+    position: absolute;
+}
+.clients{
+    position: relative;
+    margin-top: -7%;
+}
+
+
+@media screen and (max-width: 1400) {
+    .light-head {
+      font-size: 4rem;
+    }
+   
+  }
+@media screen and (max-width: 1200px) {
+    .light-head {
+      font-size: 3.5rem;
+    }
+    
+  }
+@media screen and (max-width: 992px) {
+    .light-head {
+      font-size: 3rem;
+      width: 80%; 
+    }
+   
+  }
+@media screen and (max-width: 768px) {
+    .light-head {
+      font-size: 2rem;
+      width: 90%; 
+    }
+    .main-container2{
+    padding-top: 5%;
+  }
+    
+  }
+@media screen and (min-width: 576) {
+    .light-head {
+      font-size: 1.5rem;
+      width: 95%; 
+    }
+    .main-container2{
+      padding-top: 2%;
+    }
+    
+  }
