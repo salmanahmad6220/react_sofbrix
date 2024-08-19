@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react_sofbrix/static/css/main.3c036f10.css",
+    "main.js": "/react_sofbrix/static/js/main.c0b3064c.js",
+    "static/media/video.png": "/react_sofbrix/static/media/video.6339d66385558724ff48.png",
+    "static/media/Frameimg2.png": "/react_sofbrix/static/media/Frameimg2.411cf3212f329148ddb0.png",
+    "static/media/frameimg.png": "/react_sofbrix/static/media/frameimg.700050a800c07a6b77bc.png",
+    "static/media/Itimg.png": "/react_sofbrix/static/media/Itimg.43b64c5471efe4b8e2e1.png",
+    "static/media/aboutimg.png": "/react_sofbrix/static/media/aboutimg.1ad7680618166dd4f716.png",
+    "static/media/pueblo.png": "/react_sofbrix/static/media/pueblo.639e2b8a8cffbb3ff618.png",
+    "static/media/trading.png": "/react_sofbrix/static/media/trading.01212f10cb968f3ea463.png",
+    "static/media/image.png": "/react_sofbrix/static/media/image.1b09249b3dab40fea3c5.png",
+    "static/media/fintrade.png": "/react_sofbrix/static/media/fintrade.b44dc37073b44a29a68b.png",
+    "static/media/hammad.png": "/react_sofbrix/static/media/hammad.8f22cfbc7cee6dcc4567.png",
+    "static/media/zeshan.png": "/react_sofbrix/static/media/zeshan.09e60eee2fd45735e211.png",
+    "static/media/majid.png": "/react_sofbrix/static/media/majid.68136dbbb4b01b00befa.png",
+    "static/media/dapper.png": "/react_sofbrix/static/media/dapper.e30a688848c907c136fb.png",
+    "static/media/usama.png": "/react_sofbrix/static/media/usama.de7458fa33336a686a34.png",
+    "static/media/head.jpg": "/react_sofbrix/static/media/head.3bd222120ab667595371.jpg",
+    "static/media/seccomment.png": "/react_sofbrix/static/media/seccomment.8ffef8e8109518872cf6.png",
+    "static/media/thirdcomment.png": "/react_sofbrix/static/media/thirdcomment.07edbda1e88e6fa79e13.png",
+    "static/media/clients.png": "/react_sofbrix/static/media/clients.cec21b84d2dd2e28db14.png",
+    "static/media/firstcomment.png": "/react_sofbrix/static/media/firstcomment.1f23b36a5f092883da47.png",
+    "static/media/imgoverlay.png": "/react_sofbrix/static/media/imgoverlay.af48eb893a13c9b1fa34.png",
+    "index.html": "/react_sofbrix/index.html",
+    "main.3c036f10.css.map": "/react_sofbrix/static/css/main.3c036f10.css.map",
+    "main.c0b3064c.js.map": "/react_sofbrix/static/js/main.c0b3064c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c036f10.css",
+    "static/js/main.c0b3064c.js"
+  ]
+}
